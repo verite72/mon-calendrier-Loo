@@ -1,6 +1,14 @@
 ---
-title: Accueil
+title: "Accueil"
+order: 3
 ---
-# L'Échappée Belle
+gestion d’un atelier-magasin et technicien de maintenance informatique
+## Quelques mots sur moi
 
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**.
+J’ai une famille de trois enfant , on vit dans les Pays de la loire.
+J’aime passer du temps sur internet , mais surtout sur mon PC. Mes occupations sont ma famille , mes chats et developper une activité sportive.
+
+J’utilise LibreOffice, (Loo) et Linux Elementary OS (c). 
+_Libre office_ ,c’est un outil composé de _Writer, calc , impress_ : un pack et ses outils . (avec une communauté dynamique étudiante)
+
+Cette 'communauté' m’a permis de redécouvrir le monde du libre quand j’ai pris conscience que pendant le confinement , l’informatique n’est pas considérée comme essentielle. Donc il faut se donner des objectifs pour passer cette epreuve comme garder une hygiène de vie et garder ce qui est important dans la vie: les proches, et mes chats , Chipie, Grisouille, Noisette, Simba. 
