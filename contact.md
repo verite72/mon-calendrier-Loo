@@ -1,7 +1,8 @@
 ---
-title: Contact
+title: "Contact"
+order: 2
 ---
-L'Échappée Belle est actuellement composée de 5 membres.
+Je suis l'unique membre,
+Vous pouvez me joindre : pouet.chapril.org@philomaine 
 
-Pour nous contacter : [coucou@lechappeebelle.team](mailto:coucou@lechappeebelle.team)
-`
+` 
