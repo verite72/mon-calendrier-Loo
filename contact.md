@@ -3,6 +3,6 @@ title: "Contact"
 order: 2
 ---
 Je suis l'unique membre,
-Vous pouvez me joindre : pouet.chapril.org@philomaine 
+Vous pouvez me joindre : philippe.verite2[@]orange.fr 
 
 ` 
