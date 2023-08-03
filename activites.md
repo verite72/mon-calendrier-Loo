@@ -13,5 +13,5 @@ Il est souhaitable d apprendre le langage dès le primaire donc de permettre a t
 J’utilise aussi d’autres systèmes plus par nécessité , MS Windows 10(c)
 
 Les logiciels en italique sont sous licence :     
-MMP ((c)Mozilla) 
+MMP ((c)Mozilla) \
 [Libre-logo] est l’œuvre de Laszlo Nemeth 
