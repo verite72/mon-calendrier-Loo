@@ -3,7 +3,7 @@ title: "Contact"
 order: 2
 ---
 /*    # --couleur-primaire : #006442; */
-:root {
+body {
 background-color : yellow;
 }
 
