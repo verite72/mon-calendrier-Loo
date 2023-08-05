@@ -8,10 +8,12 @@ Mon activité commerciale est de proposer
     - sur une journée ou plus avec hébergement
 
 _Libre-logo_ 
-je  crois que le Logo est un langage de programmation simple, et efficace car en français. Et il appartient à la gamme des outils scolaires, comme le projet turtle qui donne des bases de la programmation.
-Il est souhaitable d apprendre le langage dès le primaire donc de permettre a tous de programmer dans un langage standard et le standard encore c'est python, le C et le Logo. 
-J’utilise aussi d’autres systèmes plus par nécessité , MS Windows 10(c)
+je  crois que le Logo est un langage de programmation interprété  car en français. Et il appartient à la gamme des outils intégrable à Libreo. le projet Turtle Logo existe qui est ludique et permet un apprentissage en s'amusant .
+J’utilise d’autres systèmes comme  Microsoft plus par nécessité, 
 
 Les logiciels en italique sont sous licence :     
 MMP ((c)Mozilla) \
 [Libre-logo] est l’œuvre de Laszlo Nemeth 
+projet Turtle sur le Wiki
+
+[en construction] (https://github.com/verite72/mon-site-avec-scribouilli/blob/main/en%20construction.jpg)! 
