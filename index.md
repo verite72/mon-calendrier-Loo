@@ -6,7 +6,7 @@ gestion d’un atelier-magasin et technicien de maintenance informatique
 ## Quelques mots sur moi
 
 J’ai une famille de trois enfant , on vit proche du Val de Loir.
-J’aime passer du temps sur mon PC. Mes occupations sont ma famille , mes chats et développer une activité ludique et rémunérée mais Hélas...
+J’aime passer du temps sur mon PC. Mes occupations sont ma famille , mes chats et développer une activité ludique et rémunérée...
 
 
 Cette 'communauté du libre' m’a permis de redécouvrir le monde du libre quand j’ai pris conscience que pendant le confinement , l’informatique n’est pas considérée comme essentielle. 
