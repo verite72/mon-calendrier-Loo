@@ -4,9 +4,6 @@ order: 3
 ---
 gestion d’un atelier-magasin et technicien de maintenance informatique
 =========
-/:body {
-    --couleur-primaire : #2a6442;
-}/
 De base 
 J’ai une famille , on vit proche du Val de Loir.
 Ancien amateur de l'Amiga, et maintenant de FS-UAE
