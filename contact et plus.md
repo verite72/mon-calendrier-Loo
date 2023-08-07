@@ -7,7 +7,7 @@ background-color : yellow;
 }
 
 Je suis l'unique membre,
-Vous pouvez me joindre : philippe.verite2[@]orange.fr 
+Vous pouvez me joindre : philippe.verite2[@]orange[point]fr 
 
 
 Les logiciels en italique sont sous licence :     
