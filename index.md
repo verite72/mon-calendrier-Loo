@@ -17,6 +17,6 @@ Mais l'informatique c'est bien quand c'est simple comme un compte a rebours de f
 
 Prenez soin de vous  
 
-Merci a lechappeebelle.team , une tribu qui est une association solidaire et qui propose une solution de création : Scribouilli \
-```bloc de cotes``` \
-[en construction](https://github.com/verite72/mon-site-avec-scribouilli/blob/main/en%20construction.jpg)
+Merci a lechappeebelle.team , une tribu qui est une association solidaire et qui propose une GUI (interface utilisateur) et solution à ce problème: 1 site internet est nécessaire pour faire connaître mon  activités : La solution : '''Scribouilli''' \
+
+[en construction](https://github.com/verite72/mon-site-avec-scribouilli/blob/main/en%20construction.jpg) 
