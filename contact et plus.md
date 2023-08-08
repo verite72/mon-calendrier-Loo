@@ -7,11 +7,5 @@ Créez votre site, testez
 testez  et  donnez vos  retours, c'est important !
 @lechappeebelle.team
 
-Je suis l'unique membre verite72,
+Je suis l'unique membre verite72  
 Vous pouvez me joindre : philippe.verite2[@]orange[point]fr 
-
-
-Les logiciels en italique sont sous licence :     
-*MMP ((c)Mozilla) \
-*[Libre-logo] est l’œuvre de Laszlo Nemeth 
-*Turtle-Project sur le Wiki 
