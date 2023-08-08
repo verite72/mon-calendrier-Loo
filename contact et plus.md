@@ -3,9 +3,9 @@ title: "Contact et plus"
 order: 2
 ---
 Créez votre site, testez
-[l'atelier scribouilli] (https://scribouilli.github.io/scribouilli/selectionner-un-site)
+[l'atelier scribouilli] (https://scribouilli.github.io/scribouilli)
 testez  et  donnez vos  retours, c'est important !
-@lechappeebelle.team
+[coucou@lechappeebelle.team](mailto:coucou@lechappeebelle.team)
 
 Je suis l'unique membre verite72  
-Vous pouvez me joindre : philippe.verite2[@]orange[point]fr 
+Vous pouvez me joindre :  philomaine@pouet.chapril.org 
