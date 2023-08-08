@@ -2,13 +2,45 @@
 title: "Activités"
 order: 1
 ---
-_Mon activité_ commerciale serait de proposer 
-    *les attraits de notre secteur sud-Sarthe et du Val-de-Loir  
+Le Markdown  [Language de balisage léger] (https://fr.wikipedia.org/wiki/Markdown)
+A la difference du HTML qui est Language de balisage hyper-text
 
-_Libre-logo_ 
-je  crois que le Logo est un langage de programmation interprété  car en français. Et il appartient à la gamme des outils intégrable à Libreoo. le projet Turtle Logo existe qui est ludique et permet un apprentissage en s'amusant .
-J’utilise d’autres systèmes comme  Microsoft plus par nécessité, 
+Voici quelques étapes a suivre pour facilement créer une page web  dans Github et dans quelque autre editeur texte qui intègre comme Firefox cela avec une extension
 
+1. Titres  
 
+2. style de texte  
+3. Listes  
+  Liste à puces imbriquée dans une liste ordonnée:
 
-! [en construction] (https://github.com/verite72/mon-site-avec-scribouilli/blob/main/en%20construction.jpg) 
+  1. fruits
+     * pomme
+     * banane
+  2. légumes
+     - carotte
+     - brocoli
+
+Liste à cocher:
+ - [ ] Case non cochée
+ - [x] Case cochée
+4. Tableaux
+ </tr>
+ <tr>
+  <td align="left">Gauche</td>
+  <td align="center">Centre</td>
+  <td align="right">Droite</td>
+ </tr>
+</tbody>
+</table>
+5. Liens
+Un [lien](http://example.com).
+
+![Image en-construction](en-construction.jpg "icon")
+
+6. Paragraphes ‘citations de blocs’
+> Markdown utilise les caractères à la manière des emails pour faire des citations en bloc.
+>
+> Chacun des paragraphes doivent être précédés par ce caractère.
+7. balises
+La plupart des balises <abbr title="Hypertext Markup Language">HTML</abbr> de type « en ligne » sont prises en compte.
+>
