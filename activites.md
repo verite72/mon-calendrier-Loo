@@ -35,7 +35,7 @@ Liste à cocher:
 5. Liens
 Un [lien](http://example.com).
 
-![Image en-construction](en-construction.jpg "icon")
+![en-construction.jpg](https://github.com/verite72/mon-site-avec-scribouilli/blob/da026ffcaeefe56d672c093a97ef982f9eedb74d/en%20construction.jpg) "image")
 
 6. Paragraphes ‘citations de blocs’
 > Markdown utilise les caractères à la manière des emails pour faire des citations en bloc.
