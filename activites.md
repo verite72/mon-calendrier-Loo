@@ -35,7 +35,7 @@ Liste à cocher:
 5. Liens
 Un [lien](http://example.com).
 
-![en-construction.jpg](https://github.com/verite72/mon-site-avec-scribouilli/blob/da026ffcaeefe56d672c093a97ef982f9eedb74d/en%20construction.jpg) "image")
+Une image[en-construction.jpg](https://github.com/verite72/mon-site-avec-scribouilli/blob/da026ffcaeefe56d672c093a97ef982f9eedb74d/en%20construction.jpg) "image")
 
 6. Paragraphes ‘citations de blocs’
 > Markdown utilise les caractères à la manière des emails pour faire des citations en bloc.
@@ -43,4 +43,4 @@ Un [lien](http://example.com).
 > Chacun des paragraphes doivent être précédés par ce caractère.
 7. balises
 La plupart des balises <abbr title="Hypertext Markup Language">HTML</abbr> de type « en ligne » sont prises en compte.
->
+> 
