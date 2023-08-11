@@ -2,10 +2,13 @@
 title: "Activités"
 order: 1
 ---
+---
 Le Markdown  [Language de balisage léger] (https://fr.wikipedia.org/wiki/Markdown)
+---
+
 A la difference du HTML qui est Language de balisage hyper-text
 
-Voici quelques étapes a suivre pour facilement créer une page web  dans Github et dans quelque autre editeur texte qui intègre comme Firefox cela avec une extension
+Voici quelques étapes a suivre pour facilement créer une page web dans Github \dans quelque autre éditeur texte qui intègre comme Firefox cela avec une extension 
 
 1. Titres  
 
@@ -44,3 +47,5 @@ Une image[en-construction.jpg](https://github.com/verite72/mon-site-avec-scribou
 7. balises
 La plupart des balises <abbr title="Hypertext Markup Language">HTML</abbr> de type « en ligne » sont prises en compte.
 > 
+---
+L 'editeur de texte pour la programmation VIM 
