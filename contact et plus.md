@@ -7,5 +7,5 @@ Créez votre site, testez
 testez  et  donnez vos  retours, c'est important !
 [coucou@lechappeebelle.team](mailto:coucou@lechappeebelle.team)
 
-Je suis l'unique membre verite72  
-Vous pouvez me joindre :  philomaine@pouet.chapril.org 
+Je suis l'unique membre philomaine
+Vous pouvez me joindre :  philippe.verite07[at]orange[point]fr 
