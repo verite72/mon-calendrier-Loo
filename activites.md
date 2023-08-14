@@ -60,5 +60,19 @@ SUITE
 | à gauche         | centré          | à droite        |
 
   10. Code
-Ceci est du `code`
-Ceci est du code `mov ax,ffff` 
+Ceci est du code assembleur 68000 `mov ax,ffff` 
+
+bloc de code avec 4 espaces par ligne pour l'indentation :
+```
+bloc de code
+    bloc de code
+    bloc de code
+```
+Crédits
+
+Markdown est un langage de balisage créé par John Gruber et Aaron Swartz. Son but est d’offrir une syntaxe facile à lire et écrire. Il rend ainsi la création de contenu sur le Web plus accessible.
+
+    Site officiel (en anglais)
+    Page Wikipédia
+
+Merci à Framasoft pour sa documentation sur laquelle je me suis largement reposé. 
