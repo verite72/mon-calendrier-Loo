@@ -45,8 +45,20 @@ Un [lien](http://example.com).
   7. balises
 La plupart des balises <abbr title="Hypertext Markup Language">HTML</abbr> de type « en ligne » sont prises en compte.
 >
+---
+SUITE
+---
   8. logo/banniere
  - exemple :
 ![en-construction]('en-construction.jpg') "image en construction")
- 
---- 
+  9. Tableau
+
+| Aligné à gauche  | Centré          | Aligné à droite |
+|:-----------------|:---------------:| ---------------:|
+| Ce texte         | ce texte        | Ce texte        |
+| est aligné       | est             | est aligné      |
+| à gauche         | centré          | à droite        |
+
+  10. Code
+Ceci est du `code`
+Ceci est du code `mov ax,ffff` 
