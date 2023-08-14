@@ -18,7 +18,7 @@ Voici quelques étapes a suivre pour facilement créer une page web dans Github 
   _Italique
   **Gras**
   **_Gras Italique_**
-  --Barré--
+  ~~Barré~~
 
 3. Listes  
   Liste à puces imbriquée dans une liste ordonnée:
@@ -60,9 +60,9 @@ La plupart des balises <abbr title="Hypertext Markup Language">HTML</abbr> de ty
 SUITE
 ---
 
-  8. logo/banniere
-  exemple 
-![en-construction]('en-construction.jpg' "image en construction")
+  8. logo-banniere
+  exemple  
+  ![en-construction]('en-construction.jpg' "image en construction")
 
   9. Tableau
 
@@ -73,7 +73,7 @@ SUITE
   | à gauche         | centré          | à droite        |
 
   10. Code
-Ceci est du code assembleur 68000 `mov ax,ffff` 
+Ceci est du code assembleur 68000  `mov ax,ffff` 
 
 bloc de code avec 4 espaces par ligne pour l'indentation :
 ```
@@ -81,7 +81,7 @@ bloc de code
     bloc de code
     bloc de code
 ```
-Crédits
+  11. Crédits
 
 Markdown est un langage de balisage créé par John Gruber et Aaron Swartz. Son but est d’offrir une syntaxe facile à lire et écrire. Il rend ainsi la création de contenu sur le Web plus accessible.
 
