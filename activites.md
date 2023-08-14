@@ -26,7 +26,7 @@ Voici quelques étapes a suivre pour facilement créer une page web dans Github 
 Liste à cocher:
  - [ ] Case non cochée
  - [x] Case cochée
-4. Tableaux
+  4. Tableaux
  </tr>
  <tr>
   <td align="left">Gauche</td>
@@ -35,17 +35,18 @@ Liste à cocher:
  </tr>
 </tbody>
 </table>
-5. Liens
+  5. Liens
 Un [lien](http://example.com).
 
-Une image[en-construction.jpg](https://github.com/verite72/mon-site-avec-scribouilli/blob/da026ffcaeefe56d672c093a97ef982f9eedb74d/en%20construction.jpg) "image")
-
-6. Paragraphes ‘citations de blocs’
+  6. Paragraphes ‘citations de blocs’
 > Markdown utilise les caractères à la manière des emails pour faire des citations en bloc.
 >
 > Chacun des paragraphes doivent être précédés par ce caractère.
-7. balises
+  7. balises
 La plupart des balises <abbr title="Hypertext Markup Language">HTML</abbr> de type « en ligne » sont prises en compte.
-> 
----
-L 'editeur de texte pour la programmation VIM 
+>
+  8. logo/banniere
+ - exemple :
+![en-construction]('en-construction.jpg') "image en construction")
+ 
+--- 
