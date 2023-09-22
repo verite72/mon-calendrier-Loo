@@ -2,10 +2,13 @@
 title: "Contact et plus"
 order: 2
 ---
-Créez votre site, testez
-[l'atelier scribouilli] (https://scribouilli.github.io/scribouilli)
-testez  et  donnez vos  retours, c'est important !
-[coucou@lechappeebelle.team](mailto:coucou@lechappeebelle.team)
 
-Je suis l'unique membre philomaine
-Vous pouvez me joindre :  philippe.verite07[at]orange[point]fr 
+Je suis l'unique membre de mon-scribouilli
+Vous pouvez me joindre :  philippe.verite07[at]orange[point]fr
+J'ai mis à jour le calendrier perpétuel . Son auteur: 'Mr Angomadi' 
+disponible sur https://extensions.libreoffice.org/ sous le nom calendario.ods
+ou en Français/ Espagnol  celui-ci  
+---
+Traduction en francais des  différents classeurs et variables 
+Philomaine
+---
