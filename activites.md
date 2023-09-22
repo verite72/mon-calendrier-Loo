@@ -3,89 +3,27 @@ title: "Activités"
 order: 1
 ---
 ---
-Le Markdown  [Language de balisage léger] (https://fr.wikipedia.org/wiki/Markdown)
+calendario.ods  [calendrier perpétuel en Français Espagnol] (https://extensions.libreoffice.org/en/extensions/show/41978)
 ---
-
-A la difference du HTML qui est Language de balisage hyper-text
-
-Voici quelques étapes a suivre pour facilement créer une page web dans Github \dans quelque autre éditeur texte qui intègre comme Firefox cela avec une extension 
-
-1. Titres  
-  A.1 Titres
-  A.2 Titres
-
-2. style de texte  
-  _Italique
-  **Gras**
-  **_Gras Italique_**
-  ~~Barré~~
-
-3. Listes  
-  Liste à puces imbriquée dans une liste ordonnée:
-
-  1. fruits
-     * pomme
-     * banane
-  2. légumes
-     - carotte
-     - brocoli
-
-Liste à cocher:
- - [ ] Case non cochée
- - [x] Case cochée
-
-  4. Tableaux
- </tr>
- <tr>
-  <td align="left">Gauche</td>
-  <td align="center">Centre</td>
-  <td align="right">Droite</td>
- </tr>
-</tbody>
-</table>
-
-  5. Liens
-Un [lien](http://example.com).
-
-
-  6. Paragraphes ‘citations de blocs’
-> Markdown utilise les caractères à la manière des emails pour faire des citations en bloc.
->
-> Chacun des paragraphes doivent être précédés par ce caractère.
-
-  7. balises
-La plupart des balises <abbr title="Hypertext Markup Language">HTML</abbr> de type « en ligne » sont prises en compte.
->
+FRANçAIS
 ---
-SUITE
----
+feuille: locales:
+cet feuille vous autorise de chosir les libellés des jours de la semaine et mois dans ton langage.
+configure selon la semaine commence un lundi ou le dimanche.
+prenez une attention toute particulière pour les noms des jours et mois dans l’ordre ou ils apparaissent  dans l'example: ES
 
-  8. logo-banniere
-  exemple  
-  ![en-construction]('en-construction.jpg' "image en construction")
+feuille: calculos:
+cet feuille contient tout les calculs pour établir le calendrier. Do ne pas modifier excepter pour debugger.
 
-  9. Tableau
+feuille: fiestas:
+cet feuille vous pouvez ajouter la partie que vous voulez surligner  dans la calendrier.
+le format  du jour devrait être : jj / mm / aaaa.
+le nom proche de la date dans la  la feuille fiestas aparaitra et  aussi  dans 'calendario' (proche de  la date)
+Le pays d’origine de la fête en sert pas . Mais il est pensé pour préciser selon le choix du pays/état/province/ville a quel region appartient cette fête 
 
-  | Aligné à gauche  | Centré          | Aligné à droite |
-  |:-----------------|:---------------:| ---------------:|
-  | Ce texte         | ce texte        | Ce texte        |
-  | est aligné       | est             | est aligné      |
-  | à gauche         | centré          | à droite        |
+feuille: calendario:
+cet feuille est ou le calendrier est établi
+une fois configuré dans votre langage et personnalisé  les fêtes, vous avez simplement a choisir dans cet feuille la année et le mois avant d'imprimer
+dans le gestionnaire  l’impression de libre office , modifiez  les paramètres (A3,A4) de taille de page  et le ratio de taille  de la page, pour une impression optimale
 
-  10. Code
-Ceci est du code assembleur 68000  `mov ax,ffff` 
-
-bloc de code avec 4 espaces par ligne pour l'indentation :
-```
-bloc de code
-    bloc de code
-    bloc de code
-```
-  11. Crédits
-
-Markdown est un langage de balisage créé par John Gruber et Aaron Swartz. Son but est d’offrir une syntaxe facile à lire et écrire. Il rend ainsi la création de contenu sur le Web plus accessible.
-
-    Site officiel (en anglais)
-    Page Wikipédia
-
-Merci à Framasoft pour sa documentation sur laquelle je me suis largement reposé. 
+modification du style conditionnel pour supprimer les cases inutiles
