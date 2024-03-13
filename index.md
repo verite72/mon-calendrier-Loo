@@ -5,7 +5,7 @@ in_menu: true
 ---
 # Calendrier perpétuel de Angomadi sur extensions.libreoffice.org
 
-* les dates et macros on été modifiées allant ainsi jusqu'a 2028  Les jours fériés weekends 
+* les dates et macros on été modifiées allant ainsi jusqu'a 2028  Les jours fériés weekends vacances selon la zone b a c
 
 Mars 2024, modifié
 formatage conditionnel 
