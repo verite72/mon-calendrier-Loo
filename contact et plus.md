@@ -1,14 +1,15 @@
 ---
 title: "Contact et plus"
 order: 2
+in_menu: true
 ---
-
-Je suis l'unique membre de mon-scribouilli
+l'unique membre de mon-scribouilli
 Vous pouvez me joindre :  philippe.verite07[at]orange[point]fr
-J'ai mis à jour le calendrier perpétuel . Son auteur: 'Mr Angomadi' 
-disponible sur https://extensions.libreoffice.org/ sous le nom calendario.ods
-ou en Français/ Espagnol  celui-ci  
+ auteur: 'Angomadi' 
+disponible sur https://extensions.libreoffice.org/ calendrier 
 ---
-Traduction en francais des  différents classeurs et variables 
+classeurs calc compatible avec calc 6 et supérieur 
+---
 Philomaine
 ---
+Licence CC-BY 
