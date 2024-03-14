@@ -5,7 +5,7 @@ in_menu: true
 ---
 l'unique membre de mon-calendrier-Libre-office-org
 Vous pouvez me joindre :  philippe.verite07[at]orange[point]fr 
-disponible sur https://extensions.libreoffice.org/ calendrier 
+https://extensions.libreoffice.org/ calendrier 
 ---
 classeurs calc compatible avec calc 6 et supérieur 
 ---
