@@ -12,6 +12,6 @@ Vous pouvez me joindre par email   philippe.verite07[at]orange[point]fr
 sous License MIT
 
 classeurs calc compatible avec Calc 3.3 et supérieur  (actuelle 7.6)
-Auteur Philomaine
+Auteur Philomaine Angomadi
 
 [https://github.com/verite72/mon-calendrier-Loo/blob/main/LICENSE](Licence) 
