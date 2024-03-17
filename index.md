@@ -1,6 +1,6 @@
 ---
 title: "Accueil"
-order: 3
+order: 1
 in_menu: true
 ---
 # Calendrier perpétuel de [extensions.libreoffice.org]
