@@ -15,4 +15,5 @@ sous License MIT du site et du contenu . merci de lire. c est la plus simple de 
 
 classeurs calc compatible avec Calc 3.3 et supérieur  (actuelle 7.6)
 
-Auteur Philomaine Angomadi 
+contributeur Philomaine
+repris de l'extension de l'auteur Angomadi (calendrier universelle) 
