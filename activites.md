@@ -6,7 +6,7 @@ in_menu: true
 ---   
 [https://extensions.libreoffice.org/en/extensions/show/41978](https://extensions.libreoffice.org/en/extensions/show/41978)
 ---
-**Français anglais espagnol**
+**Français ou espagnol**
 
 **locales**
 cet feuille vous autorise de choisir les libellés des jours de la semaine et mois dans ton langage.
@@ -26,7 +26,7 @@ cette feuille est ou le calendrier est établi
 une fois configuré dans votre langage et personnalisé  les fêtes, vous avez simplement a choisir dans cet feuille l année et le mois avant d'imprimer
 
 **Vacances**
-Cette feuille est l'ensemble des dates connues en Pays francophones
+Cette feuille est repris d'un site web a qui je fais confiance et que je remercie aussi pour l avoir mis en libre accès (license PDL)
 
-_l’impression_
-modifiez  les paramètres (A3,A4) de taille de page  et le ratio de taille  de la page, pour une impression optimale 
+**Lunaison**
+Nouveauté pour completer ce petit calendrier qui n'est plus perpétuel mais pour l'année en cours 
