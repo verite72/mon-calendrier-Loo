@@ -6,6 +6,9 @@ in_menu: true
 ---   
 [https://extensions.libreoffice.org/en/extensions/show/41978](https://extensions.libreoffice.org/en/extensions/show/41978)
 ---
+Je crois que mon extension est buggée , dans ce cas il y a un fichier qui peut être imprimé (en portrait, A4) 
+[extraction.pdf] (Calendrier 2025 a imprimer)
+---
 **Français ou espagnol**
 
 **locales**
@@ -28,5 +31,5 @@ une fois configuré dans votre langage et personnalisé  les fêtes, vous avez s
 **Vacances**
 Cette feuille est repris d'un site web a qui je fais confiance et que je remercie aussi pour l avoir mis en libre accès (license PDL)
 
-**Lunaison**
+**Nouvelle_Lune**
 Nouveauté pour completer ce petit calendrier qui n'est plus perpétuel mais pour l'année en cours 
