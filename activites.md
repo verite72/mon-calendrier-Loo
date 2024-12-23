@@ -12,7 +12,7 @@ Je crois que mon extension est buggée , dans ce cas il y a un fichier qui peut 
 [https://github.com/verite72/mon-calendrier-Loo/blob/main/extraction.pdf]
 ---
 
-https://github.com/verite72/mon-calendrier-Loo/blob/main/images/en%20construction.jpg
+![https://github.com/verite72/mon-calendrier-Loo/blob/main/images/en%20construction.jpg]
 
 (Calendrier 2025 non buggée)
 ---
