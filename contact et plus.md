@@ -10,7 +10,7 @@ Vous pouvez me joindre par email  mybtfqt2r@mozmail.com
 ---
 [https://extensions.libreoffice.org/en/extensions/show/41978](https://extensions.libreoffice.org/en/extensions/show/41978)
 ---  
-sous License CC-BY-NC
+sous License CC-BY
 
 classeurs calc compatible avec Calc 3.3 et supérieur  (actuelle 24.2)
 
