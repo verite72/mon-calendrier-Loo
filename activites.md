@@ -4,10 +4,13 @@ order: 2
 in_menu: true
 ---
 ---   
-[https://extensions.libreoffice.org/en/extensions/show/41978](https://extensions.libreoffice.org/en/extensions/show/41978)
+[https://extensions.libreoffice.org/en/extensions/show/41978](extensions.libreoffice)
 ---
 Je crois que mon extension est buggée , dans ce cas il y a un fichier qui peut être imprimé (en portrait, A4) 
-[extraction.pdf] (Calendrier 2025 a imprimer)
+
+[extraction.pdf]
+
+(Calendrier 2025 non buggée)
 ---
 **Français ou espagnol**
 
