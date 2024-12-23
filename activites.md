@@ -8,9 +8,9 @@ in_menu: true
 ---
 Je crois que mon extension est buggée , dans ce cas il y a un fichier qui peut être imprimé (en portrait, A4) 
 ---
-[https://github.com/verite72/mon-calendrier-Loo/blob/main/extraction.pdf?raw=true]
+[https://github.com/verite72/mon-calendrier-Loo/blob/main/extraction.pdf]
 ---
-[https://github.com/verite72/mon-calendrier-Loo/blob/main/images/en%20construction.jpg?raw=true]
+https://github.com/verite72/mon-calendrier-Loo/blob/main/images/en%20construction.jpg?raw=true
 
 (Calendrier 2025 non buggée)
 ---
