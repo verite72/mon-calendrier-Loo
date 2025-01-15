@@ -6,18 +6,16 @@ in_menu: true
 ---   
 [https://extensions.libreoffice.org/en/extensions/show/99218](https://extensions.libreoffice.org/en/extensions/show/99218)
 ---
-Je crois que mon extension est buggée , dans ce cas il y a un fichier qui peut être imprimé (en portrait, A4) 
----
+Téléchargement fichiers a imprimé et modele   
 
 [impression calendrier 2025](https://github.com/verite72/mon-calendrier-Loo/blob/1e72de7110a3de83ac690d6c35810bda578affc9/extraction.pdf)
+
+[modèle calc calendrier 2025](https://github.com/verite72/mon-calendrier-Loo/blob/1e72de7110a3de83ac690d6c35810bda578affc9/calendrier.otx)
+
+Modèle Calc  
 ---
-
-![image](https://github.com/verite72/mon-calendrier-Loo/blob/375cdcc36baa595576fe9b75053f2e42cff74b85/images/en%20construction.jpg "en construction")
-
-Calendrier 2025 
----
-**Français ou espagnol**
-
+** Exemples Français ou espagnol**
+Onglets
 **locales**
 cet feuille vous autorise de choisir les libellés des jours de la semaine et mois dans ton langage.
 configure selon la semaine commence un lundi ou le dimanche.
