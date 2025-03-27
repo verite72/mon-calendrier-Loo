@@ -8,16 +8,16 @@ in_menu: true
 ---
 Téléchargement fichiers a imprimé et modele   
 
-[impression calendrier 2025](https://github.com/verite72/mon-calendrier-Loo/blob/1e72de7110a3de83ac690d6c35810bda578affc9/extraction.pdf)
+[impression calendrier 2025](extraction.pdf)
 
-[modèle calc calendrier 2025](https://github.com/verite72/mon-calendrier-Loo/blob/1e72de7110a3de83ac690d6c35810bda578affc9/calendrier.otx)
+[modèle calc calendrier 2025](calendrier.ots)
 
 Modèle Calc  
 ---
 ** Exemples Français ou espagnol**
 Onglets
 **locales**
-cet feuille vous autorise de choisir les libellés des jours de la semaine et mois dans ton langage.
+cet feuille vous autorise de choisir les libellés des jours de la semaine et mois de ta langue
 configure selon la semaine commence un lundi ou le dimanche.
 
 **calculos**
